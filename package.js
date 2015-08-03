@@ -1,8 +1,8 @@
 Package.describe({
     name: 'sorenriise:factual-api',
-    version: '1.0.0',
+    version: '1.0.1',
     summary: "Meteor wrapper for factual-api",
-    git: 'https://github.com/sorenriise/factual-api'
+    git: 'https://github.com/sorenriise/meteor-factual-api'
 });
 
 

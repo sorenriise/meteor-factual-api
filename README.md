@@ -5,7 +5,6 @@ Creates a a Meteor like interface using the factual-api nodejs driver.
 
 All callback functions are mapped to fiber freindly functions so you don't have to.
 
-See https://github.com/Factual/factual-nodejs-driver for full capability of the API
 
 ###  Configuration
 
@@ -35,6 +34,10 @@ Or as a Method
                   });
     });
 
+
+### More Examples...
+
+See https://github.com/Factual/factual-nodejs-driver for full capability of the API
 
 Note: the factual object is only avaialble server side     
 
